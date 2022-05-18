@@ -1,4 +1,4 @@
-# LGVMP-Internship-April-2022
+# LGMVIP-Internship-April-2022
 This repo consist of my internship task in LetsGrowMore Virtual Internship Program(LGMVIP)
 
 ### Task 1-Next Word Prediction
